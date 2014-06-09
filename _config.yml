@@ -1,0 +1,18 @@
+# Setup
+title:            'Moi'
+tagline:          'Je code donc je suis'
+description:      'Template de base pour apprendre à blogger avec Jekyll'
+
+# About me
+author:
+  name:           'Girls in Tech Student'
+  url:            https://twitter.com/<your_twitter_handle>
+
+# GitHub Pages hosting
+baseurl:          /lanyon-girls-in-tech
+
+# Dependencies
+markdown:         redcarpet
+
+# Advanced
+permalink:        pretty
