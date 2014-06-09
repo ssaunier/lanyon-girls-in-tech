@@ -1,7 +1,9 @@
 ## About
 
 This repo is a boilerplate for a [Girls in Tech](http://gitparis.com/) session
-hosted by [Le Wagon](http://www.lewagon.org), presented by @ssaunier and @CelineMartinetSanchez.
+hosted by [Le Wagon](http://www.lewagon.org), presented by
+[Céline Sanchez Martinez](https://twitter.com/CelineMartinetS)
+[Sébastien Saunier](http://sebastien.saunier.me)
 
 ## Jekyll Theme
 
